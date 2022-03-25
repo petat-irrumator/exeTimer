@@ -26,7 +26,7 @@ file_dir = input("Directory of the application to run: ")
 start_time = int(time.time())
 
 # r is here to get the raw string and ignore the escape characters
-os.system(rf'{file_dir}')
+os.system(rf'"{file_dir}"')
 
 # getting the seconds for which the file ran and printing it the format hrs,min,sec
 end_time = int(time.time())
