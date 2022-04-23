@@ -1,0 +1,6 @@
+D:\Audacity\Audacity.exe  was open for 0 Hours 0 Minutes 24 Seconds
+D:\CK III\Crusader.Kings.III.v1.5.1.1.Incl.ALL.DLC\Crusader.Kings.III.v1.5.1.1.Incl.ALL.DLC\binaries\ck3.exe  was open for 26 Hours 12 Minutes 2 Seconds
+D:\Fraps\fraps.exe  was open for 0 Hours 1 Minutes 26 Seconds
+D:\GTAIV\GrandTheftAutoIV-TheCompleteEdition\GTAIV.exe  was open for 0 Hours 0 Minutes 24 Seconds
+D:\ZClient\ZClient.exe  was open for 14 Hours 1 Minutes 55 Seconds
+D:\chess\scid_windows_x64\bin\scid.exe  was open for 0 Hours 0 Minutes 12 Seconds

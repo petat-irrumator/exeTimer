@@ -1,0 +1,2 @@
+A script that asks you to run an exe then it records the time that exe was open for and makes a log file. Essentialy it's a timer but for applications.Helpfull to when you need to know how much time have you spent on that exe.
+
